@@ -72,7 +72,7 @@ Step 3. Run the application
 
 # Video Demonstration
 
-<img src="https://github.com/SuvanshVaid27/covid-qna/blob/main/static/app-demo.gif" width="700" height = "500" title="Dashboard">
+<img src="https://github.com/SuvanshVaid27/Microsoft-Student-Accelerator-2021/blob/master/Covid-Vaccine-QNA-Bot/static/app-demo.gif" width="700" height = "500" title="Dashboard">
 
 
 
