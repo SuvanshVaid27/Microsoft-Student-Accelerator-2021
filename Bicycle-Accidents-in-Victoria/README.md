@@ -20,7 +20,7 @@ The dataset is first downloaded as a zip file and prepared for visualisation, in
 
 ## Power BI Dashboard Snapshot
 
-<img src="https://github.com/SuvanshVaid27/Power-BI/blob/main/dashboard.jpg" width="1000" height = "1400" title="snapshot">
+<img src="https://github.com/SuvanshVaid27/Microsoft-Student-Accelerator-2021/blob/master/Bicycle-Accidents-in-Victoria/dashboard.jpg" width="1000" height = "1400" title="snapshot">
 
 
 ## Key Insights generated
