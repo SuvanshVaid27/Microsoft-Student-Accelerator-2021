@@ -26,7 +26,7 @@ A conversational AI chatbot can easily engage with people on a level that feels 
 
 # Implementation
 
-<img src="https://github.com/SuvanshVaid27/vaccine-qna/blob/main/static/lifecycle.png" width="700" height = "500" title="lifecycle">
+<img src="https://github.com/SuvanshVaid27/Microsoft-Student-Accelerator-2021/blob/master/Covid-Vaccine-QNA-Bot/static/lifecycle.png" width="700" height = "500" title="lifecycle">
 
 1. Gathering frequently asked vaccine questions
 Firstly, the question answer pairs were manually collected from the official [website](https://www.health.gov.au/initiatives-and-programs/covid-19-vaccines/is-it-true) of the department of health Australia. 
